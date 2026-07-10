@@ -6,14 +6,14 @@
             "bin": [
                 "cynative.exe"
             ],
-            "hash": "dd7b56c081e3471f515f79faed8ede1e18492b7f24928f8f4eab8e50d5909ce5"
+            "hash": "5c712baad9179d576da1f8cff632b840b4b03495fd565a79fea8fe1a2b8b6be1"
         },
         "arm64": {
             "url": "https://github.com/cynative/cynative/releases/download/v1.5.1/cynative_Windows_arm64.zip",
             "bin": [
                 "cynative.exe"
             ],
-            "hash": "26261f14a5c6a97df8eb0b6d61dfec836cf478a60f95277738b94104950485ff"
+            "hash": "1321513cd9c9a8bd117c0ec1986845daf9face1ccdc35441b2b1910e50ce7be8"
         }
     },
     "homepage": "https://github.com/cynative/cynative",
